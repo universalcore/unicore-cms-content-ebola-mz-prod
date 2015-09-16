@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Aprende sobre a C\u00f3lera.", 
+  "language": "por_MZ", 
+  "title": "O que \u00e9 a C\u00f3lera?", 
+  "primary_category": "71652713851f408089ba082cf575dd11", 
+  "created_at": "2015-09-16T12:24:31.146955+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-16T12:24:31.147192+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A c\u00f3lera \u00e9 uma doen\u00e7a muito perigosa para toda a fam\u00edlia, causada por um bichinho muito pequeno (Micr\u00f3bio) que se encontra nas fezes, mas que n\u00e3o se consegue ver sem um aparelho pr\u00f3prio (Microsc\u00f3pio).\r\n\r\nVais aprender como a c\u00f3lera afecta muitas crian\u00e7as e pessoas e como podemos prevenir para n\u00e3o apanharmos a doen\u00e7a.\r\n\r\nConversa com os teus amigos e fam\u00edlia sobre o que aprenderes aqui. O conhecimento deve ser partilhado com aqueles que est\u00e3o pr\u00f3ximos de n\u00f3s. Afinal, todos devemos cuidar uns dos outros, n\u00e9?\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "o-que-e-colera", 
+  "uuid": "e6ca1831875f4e51bd767a3e2c434e19"
+}
