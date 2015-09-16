@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "ba75215e3e7148c09a76007fbfa3222d", 
+  "language": "por_MZ", 
+  "title": "\u00c9bola", 
+  "image": "1f7a5981e99c4f39a1cab1aaf67b648d", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ebola", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
