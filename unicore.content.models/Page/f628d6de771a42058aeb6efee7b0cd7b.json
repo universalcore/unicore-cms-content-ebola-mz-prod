@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Aprende sobre como a c\u00f3lera pode ser tratada.", 
+  "language": "por_MZ", 
+  "title": "Como \u00e9 que se trata a C\u00f3lera? ", 
+  "primary_category": "71652713851f408089ba082cf575dd11", 
+  "created_at": "2015-09-16T12:59:43.312173+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-16T12:59:43.312394+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A c\u00f3lera pode ser tratada da seguinte forma:\r\n\r\n 1. Reidrata\u00e7\u00e3o, isto \u00e9, substitui\u00e7\u00e3o imediata dos fluidos e sais perdidos devido aos v\u00f4mitos e diarreia. \u00c9 importante tomar muitos l\u00edquidos, incluindo a mistura (soro oral) e o leite materno nos casos dos beb\u00e9s.\r\n 2. Muitas pessoas pensam que os l\u00edquidos, incluindo o leite materno v\u00e3o aumentar a diarreia ou os v\u00f3mitos, mas na verdade s\u00e3o essenciais para recuperar as for\u00e7as. Para os beb\u00e9s at\u00e9 aos 6 meses, mesmo com diarreia, \u00e9 importante que continuem a ser amamentados s\u00f3 e s\u00f3 com leite do peito. \r\n 3. Se estiver com diarreia frequente, dirigir-se de imediato \u00e0 unidade sanit\u00e1ria para an\u00e1lise e tratamento. \r\n 4. Seguir as recomenda\u00e7\u00f5es m\u00e9dicas para os pacientes em alta e permitir ao pessoal de sa\u00fade de desinfetar a tua casa. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "como-e-que-se-trata-colera", 
+  "uuid": "f628d6de771a42058aeb6efee7b0cd7b"
+}
