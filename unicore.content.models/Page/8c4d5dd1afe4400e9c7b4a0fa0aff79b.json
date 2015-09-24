@@ -6,12 +6,12 @@
   "primary_category": "ba75215e3e7148c09a76007fbfa3222d", 
   "created_at": "2015-09-16T13:15:27+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T10:27:06.561352+00:00", 
+  "modified_at": "2015-09-24T08:05:17.023491+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": "187f95d72407409dafae0f101b2b8b26", 
   "published": null, 
-  "position": 1, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "e-seguro-viajar-durante-um-surto-de-ebola", 
   "uuid": "8c4d5dd1afe4400e9c7b4a0fa0aff79b"
